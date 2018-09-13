@@ -1,0 +1,109 @@
+ul, ol {
+  list-style: none;
+}
+.listWrpService {
+  padding: 15px;
+  background: #fff;
+  margin: 15px 0;
+  border: 1px solid #e0e0e0;
+}
+body .container-body {
+  margin-top: 70px;
+  background: #e6e6e6 !important;
+  padding: 5px 0 5px 0;
+  margin-bottom: 10px;
+}
+.sortbar {
+  background: #fff;
+  padding: 20px 20px !important;
+}
+.listingSearch {
+  margin-bottom: 30px !important;
+}
+.input-group {
+  border-right: 1px solid #ccc;
+  width: 100%;
+}
+.sbutn {
+  background: #00aeef;
+  border: none;
+  padding: 18px 0px 19px 0;
+  width: 100%;
+  text-transform: uppercase;
+  font-size: 17px;
+  color: #fff;
+  border-radius: 0;
+  font-weight: bold;
+}
+/****************************************************
+			LeftSidebar css
+****************************************************/
+.leftSidebar{background: #00aef0; padding:20px;}
+.leftSidebar h3{font-size:22px; margin:0; background:#4d1ca7; padding: 12px; color:#fff;}
+.sidebarpad  .input-wrap .form-control{border-radius:5px; margin-bottom:7px;}
+.leftSidebar h4{font-size:16px; font-family: 'Open Sans', sans-serif; font-weight:bold; color:#FFF;}
+.leftSidebar label{font-weight:normal; color:#fff;}
+.leftSidebar label span{position:absolute; top:0; right:0;}
+.check li{position:relative; margin:7px 0; border-bottom: 1px solid #fff;}
+.leftSidebar .sbutn {padding: 12px 0; width: 100%; border-radius:0px; background: #000; color: #fff; border:2px solid #fff; margin-top:10px;}
+.leftSidebar .sbutn:hover{background:#fff; color:#ed1c24; border:2px solid #ed1c24;}
+.ad{margin-top:30px; text-align:center;}
+
+/*********************************************
+		 Pagination css
+**********************************************/
+.pagiWrap .showreslt{font-size:14px; font-weight:600; margin-top:10px;}
+.pagiWrap .pagination{text-align:right; margin:0; float:right;}
+.pagination>li:first-child>a, .pagination>li:first-child>span, .pagination>li:last-child>a, .pagination>li:last-child>span{border-radius:0;}	
+.pagination li a:hover, .pagination li.active a{background:#ed1c24; border:1px solid #ed1c24; color:#fff;}
+.pagination>.active>a:hover{background:#4d1ca7; border:1px solid #4d1ca7; color:#fff;}
+.pagination>li>a, .pagination>li>span{color:#000;}
+
+
+/****************************************************
+			Listing css
+****************************************************/
+.listingSearch{margin-bottom:30px;}
+.listingSearch .form-wrap{background:none;}
+.listing .form-wrap{width:auto; margin:0;}
+.listing .form-control{border:1px solid #ddd; height:36px !important; padding: 6px 14px; border-radius:0 !important;}
+.listing .sbutn{padding: 10px 68px;}
+.header-listing h4{float:left; margin-right:20px;}
+.header-listing .form-control{width:70%;}
+.listingSearch .sbutn{padding: 10px 0px;}
+.listingSearch .col-md-4{padding:0 5px;}
+.listingSearch .col-md-3{padding:0 5px;}
+.listingSearch .col-md-2{padding:0 0px 0 5px;}
+.sortbar{background:#fff; padding:5px 20px;}
+.listingSearch .form-control{ border-right: none; height:44px !important;}
+.featureInfo i{color:#00aeef; padding-right: 5px;}
+.listService h3{margin-top:0;}
+.para{font-weight:normal !important; margin-top:8px;}
+.listWrpService .apply{margin-top:60px;}
+.listWrpService .apply a{padding:10px 26px;}
+.innerfeat li:last-child{display: inline-block; background: #ed1c24; margin-top: 10px; padding: 6px 12px; margin-right: 5px; font-weight: bold; color: #fff;}
+.filter{font-size:18px; color:#fff; font-weight: bold; text-transform: uppercase; border-bottom: 1px solid #fff; padding-bottom: 11px; margin-bottom: 22px;}
+
+
+/*********************************************
+		Featured job css
+*********************************************/
+.featured-wrap{background:#efefef; padding:60px 0;}
+.headTxt{font-size:14px; color:#000; line-height:24px; text-align:center; margin-top:5px; margin-bottom:20px; padding:0 180px;}
+.listWrpService{padding:15px; background:#fff; margin:15px 0; border: 1px solid #e0e0e0;}
+.listWrpService:hover{box-shadow: 0 2px 6px 0 rgba(0,0,0,0.15);  -moz-box-shadow: 0 2px 6px 0 rgba(0,0,0,0.15); -webkit-box-shadow: 0 2px 6px 0 rgba(0,0,0,0.15);}
+.featured-wrap h3{margin-top:0; margin-bottom:5px;}
+.featured-wrap h3 a{font-size:18px; font-family: 'Open Sans', sans-serif; font-weight:600; color: #000;}
+.featured-wrap h3 a:hover{color:#ed1c24;}
+.featured-wrap p{font-weight:600; margin-bottom:0px;}
+.listWrpService .col-md-9{padding-left:0}
+.featureInfo li{display:inline-block; padding:0px 6px 0 10px; border-left: 1px solid #e0e0e0; font-size: 13px;} 
+.featureInfo li:nth-child(1) {padding-left: 0; border-left: none;}
+.time-btn{display:inline-block; background: #ed1c24; padding: 6px 18px; color: #fff; float:left; margin-top:10px; margin-right:5px; font-weight:bold;}
+.click-btn{margin-top:10px;}
+.click-btn a{text-decoration:none; display:inline-block; background: #00aef0; padding: 6px 18px; color: #fff; font-weight:bold;}
+.click-btn a:hover{background: #ed1c24;}
+.featured-wrap .read-btn{text-align:center;}
+
+
+
